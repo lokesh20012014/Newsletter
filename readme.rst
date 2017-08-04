@@ -10,14 +10,16 @@ App File Structure
 ###################
 
 application/
-├── controllers/
-│   ├── signup.php
-├── models/
-│   ├── signup_model.php
-├── views/signup/
-│   ├── signup.php
-│   ├── settings.php
-├── views/nav/
-│   ├── top_nav.php
-├── language/english/
-│   ├── en_admin_lang.php
+     -- Controllers/
+             -- signup.php
+     -- Models/
+             -- signup_model.php
+     -- Views/
+        -- signup/
+             -- signup.php
+             -- settings.php
+        -- nav/
+             -- top_nav.php
+     -- Languages/
+             -- en_admin_lang.php
+
