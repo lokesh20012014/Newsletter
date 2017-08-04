@@ -16,7 +16,8 @@ application/
              -- signup_model.php
      -- Views/
         -- signup/
-             -- signup.php/
+             -- signup.php
+
              -- settings.php
         -- nav/
              -- top_nav.php
