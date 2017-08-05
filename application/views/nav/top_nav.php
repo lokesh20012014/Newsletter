@@ -16,8 +16,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="<?php%20echo%20base_url()%20;%20?>">
-                <?php echo $this->lang->line('system_system_name'); ?></a>
+           <a class="navbar-brand" href="#"> <?php echo $this->lang->line('system_system_name'); ?></a>
         </div>
         <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
